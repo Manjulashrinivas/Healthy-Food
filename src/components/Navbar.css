@@ -1,0 +1,72 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+.hv{
+    text-decoration: none;
+    color: orangered;
+    font-size: 30px;
+    
+}
+.hv:hover{
+    color: blue;
+}
+.hm{
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+}
+.hm:hover{
+    color: blue;
+}
+.ab{
+    text-decoration: none;
+    margin-left:150px;
+    color: white;
+}
+.ab:hover{
+    color: blue;
+}
+.he{
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+}
+.he:hover{
+    color: blue;
+}
+.se{
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+}
+.se:hover{
+    color: blue;
+}
+.cn{
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+
+}
+.cn:hover{
+    color: blue;
+}
+.fed{
+    text-decoration: none;
+    color: white;
+    margin-left: 150px;
+
+}
+.fed:hover{
+    color: blue;
+}
