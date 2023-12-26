@@ -84,7 +84,8 @@ Healthy Benefit has a lot of benefits. It keeps us healthy and fit. Moreover, it
 <h2>About Website</h2>
 <h4 className='ht'>This page will explain how to protect our bodies against heart attacks,<br></br> diabetes, and other conditions.</h4>
 <h3 className='smb'><SocialMediaButtons/></h3>
-<h2 className='cdb'>@copyright code by MKMS</h2>
+<h3 className='cdb'>@Copyright . All Rights Reserved </h3>
+<h3 className='cmb'>Code by MKMS</h3>
 </div>
 <div >
 

@@ -46,7 +46,7 @@ textarea{
 }
 .fot{
     margin-top: 60px;
-    height: 200px;
+    height: 250px;
     color: white;
     background-color: black;
     display: flex;
@@ -72,4 +72,6 @@ textarea{
     margin-top: 10px;
 }
 
-  
+.cmb{
+    margin-left: 570px;
+}
